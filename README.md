@@ -1,11 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/1dy-C5yH)
-# CS30SAssignmentStarter
-Hello computer science 30S students! Remember to include this boiler plate at the beginning of your code.
-
-```processing
-/**
- * Include a description of your assignment here!
- * @author your name
- * @version the date
- */
-```
+So , for the interactive ice cream shop - there are 5 flavor buttons - chocolate , vanilla , strawberry , butterscotch and pistachio , all of the flavor's base prices are $3.0 dollars , and there are also 4 toppings buttons - chocolate cream , cherry , sprinkles and whip cream , the price of chocolate cream and cherry  are $1.0 dollars each and price of whip cream and sprinkles are are $1.75 dollars each , the user can choose flavors and toppings and the cost adds up . This is pretty much how my code works , compared to my peers , my idea is much simpler and basic!
